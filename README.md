@@ -1,4 +1,4 @@
 # Autores:
 
-## Emanuel Rico Mariaca
-## Sebastián Londoño Restrepo
+* Emanuel Rico Mariaca
+* Sebastián Londoño Restrepo
